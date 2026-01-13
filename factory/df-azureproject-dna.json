@@ -1,0 +1,9 @@
+{
+	"name": "df-azureproject-dna",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "1059686b-f0b1-4be1-ad6f-1c3618821524",
+		"tenantId": "47ca32c2-43c0-44b7-be25-91513f80c678"
+	}
+}
